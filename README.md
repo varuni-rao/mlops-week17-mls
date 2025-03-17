@@ -18,7 +18,7 @@ faced error: Unknown author
 
 Solution given by chatgpt:
 
-    git config --global user.name "Your Name"
+    git config --global user.name "Your Name"  
     git config --global user.email "your-email@example.com"
 
 This helped solve the problem
