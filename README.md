@@ -14,9 +14,12 @@ It also helped learn using git.
 9. then did a `git push`
 
 
-faced error: Unknown author\n
-Solution given by chatgpt:\n
-    `git config --global user.name "Your Name"`
-    `git config --global user.email "your-email@example.com"`
+faced error: Unknown author
+
+Solution given by chatgpt:
+
+    git config --global user.name "Your Name"  
+    git config --global user.email "your-email@example.com"
+
 This helped solve the problem
 
